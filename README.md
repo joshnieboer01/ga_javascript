@@ -1,6 +1,6 @@
 # ga_javascript
 
-<h1><strong>Weeks 1 learnings</strong></h1>
+<h1><strong>Week 1 learnings</strong></h1>
 <h2><strong>Geeks for Geeks</strong></h2>
 <p>Check out <a href="https://www.geeksforgeeks.org/most-commonly-used-tags-in-html/">Geeks for Geeks</a> which lists predefined tags for HTML.</p>
 <h2><strong>What is Git?</strong></h2>
